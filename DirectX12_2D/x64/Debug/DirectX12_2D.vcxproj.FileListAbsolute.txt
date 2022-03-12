@@ -1,0 +1,4 @@
+F:\Users\takuho\Documents\Visual Studio 2019\DirectX12_2D\x64\Debug\DirectX12_2D.exe
+F:\Users\takuho\Documents\Visual Studio 2019\DirectX12_2D\x64\Debug\DirectX12_2D.pdb
+F:\Users\takuho\Documents\Visual Studio 2019\DirectX12_2D\x64\Debug\BasicPixelShader.cso
+F:\Users\takuho\Documents\Visual Studio 2019\DirectX12_2D\x64\Debug\BasicVertexShader.cso

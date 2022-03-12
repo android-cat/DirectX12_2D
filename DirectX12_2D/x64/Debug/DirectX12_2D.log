@@ -1,0 +1,4 @@
+﻿  DirectX12.cpp
+F:\Users\takuho\Documents\Visual Studio 2019\DirectX12_2D\DirectX12.cpp(103,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+F:\Users\takuho\Documents\Visual Studio 2019\DirectX12_2D\DirectX12.cpp(296,10): warning C4101: 'result': ローカル変数は 1 度も使われていません。
+  DirectX12_2D.vcxproj -> F:\Users\takuho\Documents\Visual Studio 2019\DirectX12_2D\x64\Debug\DirectX12_2D.exe
